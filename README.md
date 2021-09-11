@@ -10,7 +10,7 @@
 
 <!--Introduction -->
 
--I'm an **Android and Django Developer**, currently learning **Web development**, looking to solve **real-world problems** and collaborate with you fella's.
+- I'm an **Android and Django Developer**, currently learning **Web development**, looking to solve **real-world problems** and collaborate with you fella's.
 <br>
 
 <details open="">
@@ -33,10 +33,10 @@
 
 [![Anorld-droid's github activity graph](https://activity-graph.herokuapp.com/graph?username=anorld-droid&theme=react-dark)](https://github.com/anorld-droid/github-readme-activity-graph)
 
-<p align="center">
+
 ## 😂 Here is a random joke that'll make you laugh!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-</p>
+
 </div>
