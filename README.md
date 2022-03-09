@@ -10,7 +10,7 @@
 
 <!--Introduction -->
 
-- I'm an **Android and Django Developer**, currently learning **Web development**, looking to solve **real-world problems** and collaborate with you fella's.
+- I'm an **Android and Django Developer**, currently learning **Web development, using flutter**, looking to solve **real-world problems** and collaborate with you fella's.
 <br>
 
 <details open="">
