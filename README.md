@@ -1,5 +1,5 @@
 <h1 align="left">
-  Hey, 
+  Hello, 
   <a target="_blank">
 <!--     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /> -->
   </a>
@@ -10,7 +10,7 @@
 
 <!--Introduction -->
 
-- I'm an **Android and Django Developer**, currently learning **Web development, using flutter**, looking to solve **real-world problems** and collaborate with you fella's.
+I am a skilled full stack developer with expertise in building a wide range of applications, from simple to complex. With my experience and knowledge, I can assist in designing and developing your applications according to your requirements. Whether it's **Android** development using **Kotlin** and/or **Java**, **Flutter** development, or **Django** development for backend systems, I have proficiency in these areas. Additionally, I can handle the deployment of applications to the **Google Play Store** and provide hosting solutions. I am passionate about turning ideas into reality and would be delighted to help bring your dreams to life.
 <br>
 
 <details open="">
