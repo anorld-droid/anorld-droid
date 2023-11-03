@@ -1,16 +1,24 @@
-<h1 align="left">
-  Hello, 
-  <a target="_blank">
-<!--     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" /> -->
-  </a>
+<h1 >
+  Experienced Flutter(Flow) Mobile Developer
 </h1>
 
 <br/>
-<br/>
 
 <!--Introduction -->
+<> Delivering Exceptional Cross-Platform Apps
 
-I am a skilled full stack developer with expertise in building a wide range of applications, from simple to complex. With my experience and knowledge, I can assist in designing and developing your applications according to your requirements. Whether it's **Android** development using **Kotlin** and/or **Java**, **Flutter** development, or **Django** development for backend systems, I have proficiency in these areas. Additionally, I can handle the deployment of applications to the **Google Play Store** and provide hosting solutions. I am passionate about turning ideas into reality and would be delighted to help bring your dreams to life.
+🌟 Client Reviews:
+
+📱 "One of the best freelancers I have dealt with <br/>
+       &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Accuracy of work  <br/>
+        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Speed ​​up the work  <br/>
+        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;Strong technical background  <br/>
+        &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;effective communication  <br/>
+       &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;(( honesty ))" <br/><br/>
+💼 "Patrice is a great developer, I would highly recommend him."
+<br><br>
+
+
 <br>
 
 <details open="">
