@@ -1,5 +1,5 @@
 <h1 >
-  Experienced Flutter(Flow) Mobile Developer
+  Flutter & Firebase Expert | Nonprofit & Real Estate Platforms 
 </h1>
 
 <br/>
